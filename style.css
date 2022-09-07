@@ -1,0 +1,130 @@
+.top_bar{
+    background-color: #EEE3CB;
+    border-radius: 30px;
+    height: 116vh ;
+    position: relative;
+}
+
+.believe{
+    color: #032c24;
+    font-family: 'French Script MT';
+    position: absolute;
+    top: 6px;
+    left: 18px;
+    font-family: 'Roboto Slab';
+}
+
+.navbar{
+    position: absolute;
+    right: 10px;
+    top: 23px;
+    margin-right: 17px;
+}
+
+.home{
+    color: #032c24;
+    margin: 9px;
+}
+
+.projects{
+    color: #032c24;
+    margin: 20px;
+}
+
+.contact{
+    color: #032c24;
+}
+
+.myname{
+    position: absolute;
+    top: 150px;
+    font-size: 50px;
+    margin: 40%;
+    text-align: center;
+}
+
+.myimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    position: relative;
+    top: 100px;
+}
+
+.myself{
+    position: absolute;
+    top: 530px;
+    text-align: center;
+}
+
+.about{
+    font-size: 2.7rem;
+}
+
+.para{
+    font-size: large;
+    background-color: #D7C0AE;
+    border-radius: 20px;
+    padding: 4px;
+    margin: 8px;
+}
+
+.touch{
+    position: absolute;
+    top: 880px;
+    left: 160px;
+    font-size: 2.3rem;
+}
+
+.insta{
+    position: absolute;
+    left: 90px;
+    top: 1000px;
+    width: 4em;
+    
+}   
+
+.twitter{
+    position: absolute;
+    top: 1000px;
+    left: 180px;
+    width: 4em;
+}  
+
+.linkedin{
+    position: absolute;
+    top: 1000px;
+    left: 270px;
+    width: 4em;
+}  
+
+.github{
+    position: absolute;
+    top: 1000px;
+    left: 360px;
+    width: 4em;
+}  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
