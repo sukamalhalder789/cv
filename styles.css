@@ -1,130 +1,205 @@
+body{
+    background-color: #E1FFEE ;
+}
+
 .top_bar{
-    background-color: #EEE3CB;
-    border-radius: 30px;
-    height: 116vh ;
+    border-radius: 20px;
     position: relative;
 }
 
-.believe{
-    color: #032c24;
-    font-family: 'French Script MT';
-    position: absolute;
-    top: 6px;
-    left: 18px;
-    font-family: 'Roboto Slab';
+.message{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5em;
+    margin-left: 18px;
 }
 
-.navbar{
+.side-bar{
+    display: block;
     position: absolute;
-    right: 10px;
-    top: 23px;
-    margin-right: 17px;
+    right: 40px;
+    top: 3px;
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-size: 1.5em ;
 }
 
 .home{
-    color: #032c24;
-    margin: 9px;
+    color: black;
+    position: relative;
+    margin-right: 40px;
 }
 
 .projects{
-    color: #032c24;
-    margin: 20px;
+    color: black;
 }
 
-.contact{
-    color: #032c24;
+.middle{
+    position: relative;
 }
 
-.myname{
-    position: absolute;
-    top: 150px;
-    font-size: 50px;
-    margin: 40%;
-    text-align: center;
-}
-
-.myimage{
+.mountain-image{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
-    position: relative;
-    top: 100px;
+    width: 60%;
 }
 
-.myself{
+h1{
+    color: #319DA0;
+    font-family: 'Dancing Script', cursive;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3.5em;
+    width: 20%;
+    margin-bottom: 0;
+}
+
+.developer{
+    color: #319DA0;
+    display: block;
+    margin-top: 0;
+    margin-left: 675px;
+    margin-right: auto;
+    padding: 0;
+    width: 10%;
+}
+
+.cloud1{
     position: absolute;
-    top: 530px;
-    text-align: center;
+    top: 210px;
+    left: 220px;
 }
 
-.about{
-    font-size: 2.7rem;
+.cloud2{
+    position: absolute;
+    top: 70px;
+    right: 220px;
+}
+
+.my-image{
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.abt{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    font-size: 3em;
+}
+
+.my-self{
+    color: #115456 ;
+    font-family: 'Combo';
+    text-align: center;
+    line-height: 1.4;
+    font-size: 1.5em;
+    
+}
+
+.dot{
+    font-size: 5em;
+    display: block;
+    margin-top: o;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.skills{
+    text-align: center;
+    font-size: 3em;
+}
+
+.webd-image{
+    width: 220px;
+    float: left;
+    margin-right: 30px;
+}
+
+.heading{
+    font-size: 2em;
 }
 
 .para{
-    font-size: large;
-    background-color: #D7C0AE;
-    border-radius: 20px;
-    padding: 4px;
-    margin: 8px;
+    font-size: 1.5em;
+}
+
+.cloud-image{
+    width: 220px;
+    float: right;
+    margin-left: 30px;
+}
+
+.webd{
+    margin-left: 300px ;
+    margin-right: 350px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.devops{
+    margin-left: 350px;
+    margin-right: 300px ;
+    margin-top: 10px ;
 }
 
 .touch{
-    position: absolute;
-    top: 880px;
-    left: 160px;
-    font-size: 2.3rem;
+    margin-top: 250px;
 }
 
-.insta{
+.gett{
+    text-align: center;
+    font-size: 3em;
+}
+
+.feel{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.contact-me{
+    background-color: #115456;
+    color: white;
+    margin-left: 636px;
+    border-radius: 20px;
+    width: 12%;
+    font-size: 1.5em;
+}
+
+.media{
+    background-color: aquamarine;
+    margin-top: 40px;
+    position: relative;
+}
+
+.img1{
+    padding: 20px;
+    width: 50px;
     position: absolute;
-    left: 90px;
-    top: 1000px;
-    width: 4em;
-    
-}   
-
-.twitter{
+    left: 550px;
+}
+.img2{
+    padding: 20px;
+    width: 50px;
     position: absolute;
-    top: 1000px;
-    left: 180px;
-    width: 4em;
-}  
+    left: 630px;
+}
 
-.linkedin{
+.img3{
+    padding: 20px;
+    width: 50px;
     position: absolute;
-    top: 1000px;
-    left: 270px;
-    width: 4em;
-}  
+    left: 720px;
+}
 
-.github{
+.img4{
+    padding: 20px;
+    width: 50px;
     position: absolute;
-    top: 1000px;
-    left: 360px;
-    width: 4em;
-}  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    left: 800px;
+}
